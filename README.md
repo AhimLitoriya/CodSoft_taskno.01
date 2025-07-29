@@ -1,2 +1,2 @@
-<h2>PORTFOLIO</h2>
+#PORTFOLIO
 <br>This is my personal portfolio using CSS and HTML<br>
